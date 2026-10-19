@@ -1,4 +1,4 @@
-<a href="https://craigweiss.dev"><img src="https://raw.githubusercontent.com/canscaw28/canscaw28/main/banner.png?v=4" alt="Craig Weiss" width="100%"></a>
+<a href="https://craigweiss.dev"><img src="https://raw.githubusercontent.com/canscaw28/canscaw28/main/banner.gif?v=5" alt="Craig Weiss" width="100%"></a>
 
 Founder and CEO of **[Rome AI](https://rome.ai)** (YC W22), an AI lab in San Francisco. Engineer #20 at Scale AI, and before that an engineer at Google, Facebook, Snap, Lyft and NASA.
 
